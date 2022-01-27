@@ -1,6 +1,6 @@
-baseURL = "https://quartz.jzhao.xyz/"
+baseURL = "https://pttmrk.github.io/quartz/"
 languageCode = "en-us"
-googleAnalytics = "G-XYFD95KB4J"
+googleAnalytics = "G-HXZ8QFS1B0"
 pygmentsUseClasses = true
 relativeURLs = true
 disablePathToLower = true
