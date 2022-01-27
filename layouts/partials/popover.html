@@ -16,7 +16,7 @@
         if (linkDest) {
           const popoverElement = `<div class="popover">
     <h3>${linkDest.title}</h3>
-    <p>${removeMarkdown(linkDest.content).split(" ", 15).join(" ")}...</p>
+    <p>${removeMarkdown(linkDest.content).split(" ", 30).join(" ")}...</p>
 </div>`
           const el = htmlToElement(popoverElement)
           li.appendChild(el)
